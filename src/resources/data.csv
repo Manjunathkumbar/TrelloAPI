@@ -1,0 +1,12 @@
+key, value
+
+HOST ,https://api.trello.com
+createcardpath , /1/cards
+addlabelpath, 1/cards/{id}/idLabels
+attachfilePath, 1/cards/{id}/attachments
+
+API_Key, 4340df9b0a075e0f719eea56103ee185
+Token, d97c973c30395946886b581f7f883c961e77b01ddf63b27853a436c33222d4f1
+Secret, adefdbbbddba114a6819205c35d0ae6212797b939793d1cbaa15bf80ca57a076
+idList , 5ca30ec6f104b374c5832059
+valuelabel, 5ca33dcf9535463b02fb4d7d
